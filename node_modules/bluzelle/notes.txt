@@ -1,0 +1,3 @@
+https://github.com/cosmostation/cosmosjs
+
+https://app.swaggerhub.com/apis/faboweb1/Cosmos-LCD/1.0.0-oas3#/default/get_txs__hash_
