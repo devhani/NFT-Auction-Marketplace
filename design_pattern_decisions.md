@@ -1,6 +1,7 @@
 1.Widhrawl Pattern:
 There is a seperate function to widhraw funds which let each user to widhraw their funds. It has two checks:
 require(canceled==true);  //require that auction has been stopped
+and
 require(auctionstarted==true); // require that someone had bid for the auction
 
 This lets user widhraw only after the auction is stopped. Funds of all the users are put in a mapping of their addresses and their funds.
